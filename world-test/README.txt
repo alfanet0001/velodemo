@@ -1,4 +1,4 @@
-空間固定テスト W1（8th Wall 配布版エンジン）
+空間固定テスト W2（8th Wall 配布版エンジン）
 
 目的：マーカーを使わず、検出した面に配置したギフトがスマホ移動後もその場所に残るかをiPhoneで検証します。
 今回の検証版はギフト1個です。サンタバンド、2マーカーによる会場の自動位置合わせは含みません。
@@ -35,3 +35,5 @@ https://github.com/8thwall/engine
 https://github.com/8thwall/threejs-world-effects-example
 https://8thwall.org/docs/api/engine/xrcontroller/configure
 https://8thwall.org/docs/open-source
+
+W2：検出済み面に加えて推定面も許可。面候補0件・APIエラー・候補ありを区別して表示。推定面は実物の上面とずれる可能性があるため、置く前に輪の位置を確認してください。
