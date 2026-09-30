@@ -37,3 +37,5 @@ https://8thwall.org/docs/api/engine/xrcontroller/configure
 https://8thwall.org/docs/open-source
 
 W2：検出済み面に加えて推定面も許可。面候補0件・APIエラー・候補ありを区別して表示。推定面は実物の上面とずれる可能性があるため、置く前に輪の位置を確認してください。
+
+W3：処理をindex.htmlに内包し、app.jsのキャッシュ不一致を防止。診断欄にSLAM初期化、フレーム数、SLAM出力の有無を表示。W3はindex.htmlの上書きだけでも更新可能。実機未確認、ズームの原因は未特定。
