@@ -1,0 +1,23 @@
+{
+  "imagePath": "image-targets/band_luminance.png",
+  "metadata": null,
+  "name": "band",
+  "type": "FLAT",
+  "properties": {
+    "left": 0,
+    "top": 0,
+    "width": 800,
+    "height": 800,
+    "isRotated": false,
+    "originalWidth": 800,
+    "originalHeight": 800
+  },
+  "resources": {
+    "originalImage": "band_original.png",
+    "croppedImage": "band_cropped.png",
+    "thumbnailImage": "band_thumbnail.png",
+    "luminanceImage": "band_luminance.png"
+  },
+  "created": 1790773086223,
+  "updated": 1790773086223
+}

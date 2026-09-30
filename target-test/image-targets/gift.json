@@ -1,0 +1,23 @@
+{
+  "imagePath": "image-targets/gift_luminance.png",
+  "metadata": null,
+  "name": "gift",
+  "type": "FLAT",
+  "properties": {
+    "left": 0,
+    "top": 0,
+    "width": 800,
+    "height": 800,
+    "isRotated": false,
+    "originalWidth": 800,
+    "originalHeight": 800
+  },
+  "resources": {
+    "originalImage": "gift_original.png",
+    "croppedImage": "gift_cropped.png",
+    "thumbnailImage": "gift_thumbnail.png",
+    "luminanceImage": "gift_luminance.png"
+  },
+  "created": 1790773086188,
+  "updated": 1790773086188
+}
